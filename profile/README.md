@@ -85,12 +85,12 @@ For building and running the application you need:
 ## Screen Layout 📺
 
 ### [LayOut](https://github.com/GoOnThat/GoOnThat/wiki/Screen-Layout)
-|                                                                                                                                             메인 페이지 |                                                                                                                         로그인 페이지 |
+<!--|                                                                                                                                             메인 페이지 |                                                                                                                         로그인 페이지 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | <img width="329" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125876896/257041304-ea431078-05b9-482d-8901-fe05c5128f90.png"/> | <img width="329" src="https://user-images.githubusercontent.com/125876896/257041747-ef8adc64-89df-4772-a751-f1a5ff9f00c8.png"/> |  
 |                                                                                                                                           회원가입 페이지 |                                                                                                                         게시판 페이지 |  
 |                    <img width="329" src="https://user-images.githubusercontent.com/125876896/257041757-e8a6e2c0-e137-4a7a-80e6-b1c4ac5a6435.png"/> |             <img width="329" src="https://github.com/GoOnThat/GoOnThat/assets/125876896/abbde490-87fc-4463-9f8b-e3bcd7199365"/> 
-
+-->
 ---
 # Main Function 📦
 

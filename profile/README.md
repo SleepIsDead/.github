@@ -11,13 +11,14 @@
 |권은지|김태현| 김지수                                                                               |
 |-------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------|
 |<img width="160px" src="https://avatars.githubusercontent.com/u/139085498?v=4" />|<img width="160px" src="https://avatars.githubusercontent.com/u/136583226?v=4" />| <img width="160px" src="https://avatars.githubusercontent.com/u/122511847?v=4" /> |
-|<center>[@kej2971](https://github.com/kej2971)| <center>[@taedyyyyy](https://github.com/taedyyyyy)| <center>[@jisoo9603](https://github.com/jisoo9603)                            |
+|<center>[@kej2971](https://github.com/kej2971)| <center>[@taedyyyyy](https://github.com/taedyyyyy)| <center>[@jisoo9603](https://github.com/jisoo9603)|
+|FRONTEND|BACKEND|FRONTEND|
 
 | 이유열                                                                              |정재민|
 |----------------------------------------------------------------------------------|-------------------------------------------------|
 | <img width="160px" src="https://avatars.githubusercontent.com/u/84696773?v=4" /> |<img width="160px" src="https://avatars.githubusercontent.com/u/125876896?v=4" />|
 | <center>[@youyeul301](https://github.com/youyeul301)                             |<center>[@devJaem](https://github.com/devJaem)|
-
+|FRONTEND|BACKEND|
 ---
 # Project Introduction
 
